@@ -14,7 +14,7 @@
          }
       }
    ],
-   "version":"0.0.1",
+   "version":"0.0.2",
    "compatibility":{
       "minimum":"12",
       "verified":"12"
@@ -38,7 +38,7 @@
          "path":"./packs/ovan-mane-under-sol.db",
          "type":"Adventure",
          "system":"dragonbane",
-         "banner":"./modules/ovan-mane-under-sol/img/Cover_image.jfif"
+         "banner":"./modules/ovan-mane-under-sol/img/Cover_image.png"
       }
    ]
 }
