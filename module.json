@@ -1,0 +1,44 @@
+{
+   "id":"ovan-mane-under-sol",
+   "title":"Ovan måne, under sol",
+   "description":"Kampanjmodul till Drakar och Demoner",
+   "url":"https://github.com/perssonkrister/ovan-mane-under-sol",
+   "manifest":"https://raw.githubusercontent.com/perssonkrister/ovan-mane-under-sol/master/module.json",
+   "download":"https://github.com/perssonkrister/ovan-mane-under-sol/archive/master.zip",
+   "authors":[
+      {
+         "name":"Krister Persson (Rangertheman)",
+         "discord":"Rangertheman",
+         "flags":{
+            
+         }
+      }
+   ],
+   "version":"0.0.1",
+   "compatibility":{
+      "minimum":"12",
+      "verified":"12"
+   },
+   "relationships":{
+      "systems":[
+         {
+            "id":"dragonbane",
+            "type":"system",
+            "compatibility":{
+               "minimum":"1.9.2",
+               "verified":"1.9.3"
+            }
+         }
+      ]
+   },
+   "packs":[
+      {
+         "label":"Ovan måne, under sol",
+         "name":"ovan-mane-under-sol",
+         "path":"./packs/ovan-mane-under-sol.db",
+         "type":"Adventure",
+         "system":"dragonbane",
+         "banner":"./modules/ovan-mane-under-sol/img/Cover_image.jfif"
+      }
+   ]
+}
